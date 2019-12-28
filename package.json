@@ -1,0 +1,12 @@
+{
+  "name": "buzzer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hussein Jafferjee",
+  "dependencies": {
+    "@serialport/parser-readline": "^8.0.6",
+    "debug": "^4.1.1",
+    "prettier": "^1.19.1",
+    "serialport": "^8.0.6"
+  }
+}
