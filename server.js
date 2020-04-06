@@ -11,5 +11,5 @@ exports.initializeServer = () => {
   app.use(express.static("public"));
 
   // start server
-  app.listen(8080);
+  app.listen(80);
 };
