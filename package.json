@@ -6,7 +6,7 @@
   "dependencies": {
     "@serialport/parser-readline": "^8.0.6",
     "debug": "^4.1.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "prettier": "^1.19.1",
     "serialport": "^8.0.7"
   }
